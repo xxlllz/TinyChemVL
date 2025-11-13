@@ -3,7 +3,7 @@
 
 ## News
 
-**[2025.11.13]** TinyChemVL has been accepted by **AAAI 2026**. We have released the model weights on [TinyChemVL](https://modelscope.cn/models/Noct25/TinyChemVL).
+**[2025.11.13]** TinyChemVL has been accepted by **AAAI 2026**. We have released the model weights on [modelscope](https://modelscope.cn/models/Noct25/TinyChemVL).
 
 ## Citation
 If you find this work useful, consider giving this repository a star ⭐️ and citing 📝 our paper as follows:
