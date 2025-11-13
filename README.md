@@ -8,14 +8,11 @@
 ## Citation
 If you find this work useful, consider giving this repository a star ⭐️ and citing 📝 our paper as follows:
 ```
-@misc{zhao2025tinychemvladvancingchemicalvisionlanguage,
-      title={TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks}, 
-      author={Xuanle Zhao and Shuxin Zeng and Yinyuan Cai and Xiang Cheng and Duzhen Zhang and Xiuyi Chen and Bo Xu},
-      year={2025},
-      eprint={2511.06283},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2511.06283}, 
+@article{zhao2025tinychemvl,
+  title={TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks},
+  author={Zhao, Xuanle and Zeng, Shuxin and Cai, Yinyuan and Cheng, Xiang and Zhang, Duzhen and Chen, Xiuyi and Xu, Bo},
+  journal={arXiv preprint arXiv:2511.06283},
+  year={2025}
 }
 ```
 
