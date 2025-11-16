@@ -1,5 +1,5 @@
 # TinyChemVL: Advancing Chemical Vision-Language Models via Efficient Visual Token Reduction and Complex Reaction Tasks (AAAI 2026)
-[![🤖 TinyChemVL (ModelScope)](https://img.shields.io/badge/Model-ModelScope-00A0E9.svg)](https://modelscope.cn/models/Noct25/TinyChemVL)
+[![🤖 TinyChemVL (ModelScope)](https://img.shields.io/badge/Model-ModelScope-00A0E9.svg)](https://modelscope.cn/models/Noct25/TinyChemVL) [![📑 Paper (arXiv:2511.06283)](https://img.shields.io/badge/arXiv-2511.06283-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2511.06283)
 
 ## News
 
