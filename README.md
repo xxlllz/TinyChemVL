@@ -5,6 +5,9 @@
 **[2026.1.4]** We release our benchmark ChemRxn-V on [ChemRxn-V](https://huggingface.co/datasets/xxxllz/ChemRxn-V).  
 **[2025.11.13]** TinyChemVL has been accepted by **AAAI 2026**. We have released the model weights on [TinyChemVL](https://modelscope.cn/models/Noct25/TinyChemVL).
 
+## Overview
+![main](fig/main.png)
+
 ## Citation
 If you find this work useful, consider giving this repository a star ⭐️ and citing 📝 our paper as follows:
 ```
